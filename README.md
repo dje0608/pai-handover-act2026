@@ -1,4 +1,4 @@
-# pai-handover-act
+# pai-handover-act2026
 
 Physical AI 応用編1 最終課題：CRANE+ V2 による部品の受け渡し（Gazebo、ACT による模倣学習）
 
